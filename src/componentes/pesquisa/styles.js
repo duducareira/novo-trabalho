@@ -1,4 +1,4 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native'
 
 const styles = StyleSheet.create({
     containerSearch: {
@@ -14,6 +14,6 @@ const styles = StyleSheet.create({
         width: '100%',
         marginLeft: 5
       },
-}
+})
 
-)
+export default styles
