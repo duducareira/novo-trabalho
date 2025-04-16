@@ -1,23 +1,17 @@
 import React from 'react'
 import { View, Image, Text, TouchableOpacity } from 'react-native';
-import styles from "./styles";
+import styles from "./style";
 
 
-export default function Filmes() {
+export default function cardFilmes({titulo,nota,imagem}) {
     return (
         <>
             <TouchableOpacity style={styles.containerFilmes}>
 
-                <Image style={styles.images} source={require(`../../../assets/Starwars.jpg`)} />
-                <Text style={styles.titulo}>Star Wars</Text>
-
-                <Text style={styles.textNota}>10</Text>
-                
-                <Image style={styles.images} source={require(`../../../assets/Starwars2.jpg`)} />
-                <Text style={styles.titulo}>Star Wars 2</Text>
-
-                <Text style={styles.textNota}>9.5</Text>
-
+                <Image style={styles.images} source={{uri:(imagem)}} />
+                <Text style={styles.titulo}>{titulo}</Text>
+                <Text style={styles.textNota}>{nota}</Text>
+            
             </TouchableOpacity>
 
         </>

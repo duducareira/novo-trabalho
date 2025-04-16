@@ -2,108 +2,80 @@ const DATA =
 [
     {
         id:'01',
-        nome:'Jurassic Park',
+        nome:'Star Wars',
         nota:'7',
-        imagem:"",
+        imagem:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtBGq2VdCx0Chf7jGTypR_5QzalkXPbQLC9A&s",
  
     },
     {
         id:'02',
-        nome:'Gente Grande',
+        nome:'Star Wars 2',
         nota:'10',
-        imagem:"",
+        imagem:"https://images.justwatch.com/poster/240993198/s332/star-wars-episodio-ii-ataque-dos-clones",
  
     },
     {
         id:'03',
-        nome:'Velozes e Furiosos',
+        nome:'Star Wars 3',
         nota:'10',
-        imagem:"",
+        imagem:"https://m.media-amazon.com/images/M/MV5BODNlOGMzYjctNWU0MS00YTNkLWIzZTQtNDE4OGU3MmEzOGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
  
     },
     {
         id:'04',
-        nome:'Thor',
+        nome:'Star Wars 4',
         nota:'10',
-        imagem:"",
+        imagem:"https://m.media-amazon.com/images/I/81CIXJxQ3TL._AC_UF1000,1000_QL80_.jpg",
  
     },
     {
         id:'05',
-        nome:'Invocação do Mal',
+        nome:'Star Wars 5',
         nota:'10',
-        imagem:"",
+        imagem:"https://m.media-amazon.com/images/M/MV5BY2ViMjFhMDMtNTA4Yi00NGJjLTk0ZTktNGVkZjJjMGY4ZTFkXkEyXkFqcGc@._V1_.jpg",
  
     },
     {
         id:'06',
-        nome:'Circulo de Fogo',
+        nome:'Star Wars 6',
         nota:'10',
-        imagem:"",
+        imagem:"https://m.media-amazon.com/images/I/81cY-e6u0OL.jpg",
  
     },
     {
         id:'07',
-        nome:'Sherk',
+        nome:'Star Wars 7',
         nota:'10',
-        imagem:"",
+        imagem:"https://upload.wikimedia.org/wikipedia/pt/a/ae/Starwars_06.jpg",
  
     },
     {
         id:'08',
-        nome:'Predador',
+        nome:'Star Wars 8',
         nota:'10',
-        imagem:"",
+        imagem:"https://upload.wikimedia.org/wikipedia/pt/0/0e/Star_Wars_The_Last_Jedi.png",
  
     },
     {
         id:'09',
-        nome:'Vingadores : Ultimato',
+        nome:'Star Wars 9',
         nota:'10',
-        imagem:"",
+        imagem:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuA4U8FgFHBK-Mn83177DOs0y7AJ7C-qR2lQ&s",
  
     },
     {
         id:'10',
-        nome:'Colors as Cores da Violência',
+        nome:'Star Wars 10',
         nota:'10',
-        imagem:"",
+        imagem:"https://upload.wikimedia.org/wikipedia/pt/thumb/5/5c/Solo_A_Star_Wars_Story.jpg/275px-Solo_A_Star_Wars_Story.jpg",
  
     },
     {
         id:'11',
-        nome:'Exterminador do Futuro',
+        nome:'Star Wars 11',
         nota:'10',
-        imagem:"",
+        imagem:"https://m.media-amazon.com/images/I/81y4LNOeAnL.jpg",
  
     },
-    {
-        id:'12',
-        nome:'Rambo',
-        nota:'10',
-        imagem:"https://",
- 
-    },
-    {
-        id:'13',
-        nome:'Homem Aranha - Longe de Casa',
-        nota:'10',
-        imagem:"https://",
- 
-    },
-    {
-        id:'14',
-        nome:'Esposa de Mentirinha',
-        nota:'10',
-        imagem:"https://",
- 
-    },
-    {
-        id:'15',
-        nome:'Minecraft',
-        nota:'100',
-        imagem:"https://",
- 
-    },
- 
+    
 ]
